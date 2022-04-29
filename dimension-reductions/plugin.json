@@ -1,0 +1,21 @@
+{
+    "id": "dimension-reductions",
+
+    "version": "0.0.1",
+
+    "meta": {
+        "label": "Dimension reductions",
+
+        "description": "This plugin is used to reduce the data dimension wihout lossing the feature ",
+
+        "author": "nhandv6",
+
+        "icon": "icon-sort-by-attributes",
+
+        "tags": ["Machine Learning", "PCA", "SVD"], //for example: ["Machine Learning", "NLP"]
+
+        "url": "",
+
+        "licenseInfo": "Apache Software License"
+    }
+}
